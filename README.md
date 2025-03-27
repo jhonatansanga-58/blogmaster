@@ -1,6 +1,6 @@
 # blogmaster
-Activity for the second week of the internship
 
+Activity for the second week of the internship
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
