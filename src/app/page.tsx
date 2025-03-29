@@ -6,7 +6,6 @@ export default async function Home() {
 
     return (
         <div className='container mx-auto p-4'>
-            <h1 className='text-3xl font-bold'>Blogs</h1>
             {posts.map((post) => (
                 <PostCard key={post.id} post={post} />
             ))}
